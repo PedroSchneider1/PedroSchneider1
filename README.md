@@ -26,9 +26,6 @@
     <h3>📊 Statistics</h3>
     <img width=66% heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api?username=PedroSchneider1&show_icons=true&theme=radical&include_all_commits=true">
     <img width=33% heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=PedroSchneider1&show_icons=true&theme=radical&layout=compact"/>
-  <p>
-    <img width=100% height=500 src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA5NDE3MzYsIm5iZiI6MTcxMDk0MTQzNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIwVDEzMzAzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiODhkMTNiYjNkNmRhNWU3MGU2ZjdhNTMzYzRhOTMyNDkzODIzOWNhM2VkZjMzMDY3NzI0NjJhNjQyNmQ2NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.04fooLUbCzi0lJxnvS7R4VfeXsSg4ncIMKEHwQwZhCU"></img>
-  </p>
 </div>
 
 <h1></h1>
